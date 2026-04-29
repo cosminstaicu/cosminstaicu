@@ -1,15 +1,28 @@
-### Hi there 👋
+### Cosmin Staicu
 
-I am Cosmin, a software developer for [VoIPIT Romania](https://voipit.ro), where I manage [Accolades](https://www.accolades.ro/en/info/), a cloud based call center platform.
+Software developer at [VoIPIT Romania](https://voipit.ro), working on [Accolades](https://www.accolades.ro/en/info/) — a cloud-based call center platform.
 
-My main open source project is called [Antheia](https://github.com/cosminstaicu/antheia), a frontend responsive library written in PHP. The library is used by most of my apps, either for VoIPIT or other private projects.
+My main open-source project is [Antheia](https://github.com/cosminstaicu/antheia), a server-side UI framework for PHP, designed for building responsive, component-based interfaces in server-rendered applications.
 
-PHP is my main programming language. But, as you can not create an entire app using only that, I also use:
- - HTML, CSS, JavaScript (frontend);
- - PHP, NodeJS (backend);
- - MySQL, MariaDB (database);
- - Bash (various actions).
- 
- Since most of my projects are cloud based apps, they are running on Linux servers (usually Ubuntu).
- 
- I do all of my programming in Eclipse IDE, as it has all the features I need. 
+It acts as the primary rendering layer in most of my applications, providing a structured component model and predictable HTML output, without relying on large client-side frameworks. The focus is on clarity, testability (including end-to-end), and long-term maintainability.
+
+The framework has evolved over several years and includes a wide range of reusable interface components. It is used in production and in private projects as a stable and consistent UI foundation.
+
+---
+
+### Focus
+
+PHP is my primary language, but most of my work spans the full stack:
+
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP, Node.js  
+- Databases: MySQL, MariaDB  
+- Scripting: Bash  
+
+Most projects are deployed as cloud-based applications on Linux (typically Ubuntu).
+
+---
+
+### Environment
+
+I primarily work in Eclipse IDE — it provides the workflow and tooling I rely on.
